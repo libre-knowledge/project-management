@@ -13,7 +13,7 @@
 
 ### 專案託管平台<br><small>Project hosting platform
 
-* GitLab 專案託管平台
+* GitLab 專案託管平台  
   以完整的 DevOps 流程整合為特色的專案託管平台
 
 ## 參考資料
