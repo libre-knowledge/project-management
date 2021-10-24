@@ -8,7 +8,7 @@
 
 ### 文件範本
 
-* The Common Project Template  
+* [The Common Project Template](<The Common Project Template/>)  
   快速地建立一符合需求之專案
 
 ### 專案託管平台<br><small>Project hosting platform
