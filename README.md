@@ -11,7 +11,7 @@
 * [The Common Project Template](https://gitlab.com/the-common/project-template)  
   快速地建立一符合需求之專案
 
-### 專案託管平台<br><small>Project hosting platform
+### 專案託管平台<br><small>Project hosting platform</small>
 
 * GitLab 專案託管平台  
   以完整的 DevOps 流程整合為特色的專案託管平台
