@@ -10,6 +10,8 @@
 
 * [The Common Project Template](https://gitlab.com/the-common/project-template)  
   快速地建立一符合需求之專案
+* [The common project template with Cookiecutter support](https://gitlab.com/the-common/cookiecutter-project)  
+  使用 [Cookiecutter](https://cookiecutter.readthedocs.io) 快速建立符合需求的軟體專案
 
 ### 專案託管平台<br><small>Project hosting platform</small>
 
